@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "EZAudio"
-    s.version          = '2.0.5-v2.0.5-develop.1'
+    s.version          = '2.0.5'
     s.summary      = "音乐灯音频解析库"
     s.license      = { :type => 'MIT', :file => 'LICENSE' }
     s.ios.deployment_target = '8.0'
