@@ -1,0 +1,13 @@
+{
+    "name": "EZAudio",
+    "version": "2.0.5-v2.0.5-develop.2",
+    "services": {
+        "provide": [],
+        "require": [],
+        "optional": []
+    },
+    "routes": {
+        "provide": [],
+        "require": []
+    }
+}
